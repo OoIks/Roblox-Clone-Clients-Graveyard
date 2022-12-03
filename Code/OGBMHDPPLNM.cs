@@ -1,4 +1,0 @@
-// OGBMHDPPLNM
-public class OGBMHDPPLNM
-{
-}
