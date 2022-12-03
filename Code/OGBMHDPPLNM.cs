@@ -1,0 +1,4 @@
+// OGBMHDPPLNM
+public class OGBMHDPPLNM
+{
+}
